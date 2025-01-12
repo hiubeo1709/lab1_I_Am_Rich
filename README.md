@@ -1,2 +1,2 @@
 # i_am_rich
-[video](https://youtu.be/0_X-CcSu36U)
+[video Demo I_Am_Rich](https://youtu.be/0_X-CcSu36U)
